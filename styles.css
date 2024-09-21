@@ -69,15 +69,6 @@ body {
     animation: fadeIn 1s ease-in 1s forwards;
 }
 
-.hero-image img {
-    max-width: 100%;
-    height: auto;
-    border-radius: 10px;
-    transform: translateY(20px);
-    opacity: 0;
-    animation: fadeInUp 1s ease-out 1.5s forwards;
-}
-
 /* Services Section */
 .services {
     padding: 100px 50px;
